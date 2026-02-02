@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @RajaUzaam
 
--Just Learning Web Developing :)
+-Coding good stuff!
 
 <!---
 RajaUzaam/RajaUzaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
